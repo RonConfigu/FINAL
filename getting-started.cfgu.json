@@ -1,6 +1,6 @@
 {
   "GREETING": {
-    "type": "RegEx",
+    "type": "RegEx",g
     "pattern": "^(hello|hey|welcome|salute|bonjour)$",
     "default": "hello"
   },
