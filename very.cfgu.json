@@ -1,0 +1,56 @@
+{
+  "A1": {
+    "type": "String"
+  },
+  "A2": {
+    "type": "Number"
+  },
+  "A3": {
+    "type": "String"
+  },
+  "A4": {
+    "type": "Number"
+  },
+  "A5": {
+    "type": "String"
+  },
+  "A6": {
+    "type": "Number"
+  },
+  "A7": {
+    "type": "Number"
+  },
+  "A8": {
+    "type": "String"
+  },
+  "A9": {
+    "type": "Number"
+  },
+  "A10": {
+    "type": "String"
+  },
+  "A11": {
+    "type": "Number"
+  },
+  "A12": {
+    "type": "String"
+  },
+    "A13": {
+    "type": "String"
+  },
+  "A14": {
+    "type": "Number"
+  },
+  "A15": {
+    "type": "String"
+  },
+    "A16": {
+    "type": "String"
+  },
+  "A17": {
+    "type": "Number"
+  },
+  "A18": {
+    "type": "String"
+  },
+}
