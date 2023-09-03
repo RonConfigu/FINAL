@@ -1,7 +1,7 @@
 {
   "key1": {
     "type": "String",
-    "default": "key1"
+    "default": "key1"v
   },
   "key2": {
     "type": "String",
