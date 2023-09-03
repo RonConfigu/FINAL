@@ -1,0 +1,22 @@
+{
+  "key1": {
+    "type": "String",
+    "default": "key1"
+  },
+  "key2": {
+    "type": "String",
+    "default": "key2",
+    "required": false
+  },
+  "key3": {
+    "type": "String",
+    "default": "key3"
+  },
+  "key4": {
+    "type": "String",
+    "default": "key4"
+  },
+  "key5": {
+    "type": "String"
+  }
+}
